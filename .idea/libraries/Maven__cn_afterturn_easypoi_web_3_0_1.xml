@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.afterturn:easypoi-web:3.0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/afterturn/easypoi-web/3.0.1/easypoi-web-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/afterturn/easypoi-web/3.0.1/easypoi-web-3.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/afterturn/easypoi-web/3.0.1/easypoi-web-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
